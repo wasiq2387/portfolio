@@ -1,0 +1,38 @@
+*{
+    /* margin: 0%; */
+    /* padding: 0%; */
+    box-sizing: border-box;
+    /* font-family: cursive ; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+.project{
+    background-color: rgb(212, 205, 205);
+    /* border-radius: 25px; */
+
+}
+
+
+.project-content h2{
+    padding: 151px;
+    margin: 25px;
+    text-align: center;
+    font-size: 50px;
+}
+
+span{
+    color: orangered;
+}
+
+.project-content h3{
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+.project-content p{
+    margin-left: 100px ;
+    justify-content: center;
+}
